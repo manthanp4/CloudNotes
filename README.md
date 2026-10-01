@@ -34,29 +34,14 @@ The application contains several activities responsible for different parts of t
 | `AddNoteActivity` | Creates new notes |
 | `EditNoteActivity` | Edits existing notes |
 
-## 📂 Project Structure
+## ⭐ Highlights
 
-CloudNotes/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/
-│   │   │   │   └── com/example/cloudnotes/
-│   │   │   ├── res/
-│   │   │   └── AndroidManifest.xml
-│   │   └── test/
-│   ├── build.gradle.kts
-│   └── proguard-rules.pro
-│
-├── gradle/
-├── build.gradle.kts
-├── gradle.properties
-├── gradlew
-├── gradlew.bat
-├── settings.gradle.kts
-├── screenshots
-└── .gitignore
-
+- User registration and login
+- Create, edit, and manage notes
+- Firebase integration
+- Multiple Android activities with XML-based layouts
+- Unit and instrumentation testing
+- Git-based version control
 
 ## 🚀 Getting Started
 
