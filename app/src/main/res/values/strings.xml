@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CloudNotes</string>
+    <string name="app_title">Cloud Notes 📋</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_prompt">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="welcome">Welcome to Cloud Notes!</string>
+    <string name="add_notes">+ ADD NOTE</string>
+    <string name="logout">Logout</string>
+    <string name="noteTitle">Note Title</string>
+    <string name="content">Content</string>
+    <string name="saveNote">Save Note</string>
+    <string name="editNote">Save Changes</string>
+    <string name="delete">Delete</string>
+</resources>
