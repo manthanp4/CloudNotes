@@ -54,7 +54,9 @@ CloudNotes/
 ├── gradlew
 ├── gradlew.bat
 ├── settings.gradle.kts
+├── screenshots
 └── .gitignore
+
 
 ## 🚀 Getting Started
 
@@ -119,11 +121,15 @@ Screenshots of the application will be added here.
 
 | Login | Register |
 |---|---|
-| Add login screenshot here | Add register screenshot here |
+| <img src="screenshots/loginpage.png" width="250"> | <img src="screenshots/registerpage.png" width="250"> |
 
 | Notes | Add Note |
 |---|---|
-| Add notes screenshot here | Add note screenshot here |
+| <img src="screenshots/notespage.png" width="250"> | <img src="screenshots/addnotepage.png" width="250"> |
+
+| Edit Note |
+|-----|-----|
+| <img src="screenshots/editnotepage.png" width="250"> |
 
 ## 🎯 Project Purpose
 
@@ -164,4 +170,4 @@ If you intend to allow others to use, modify, and distribute the project, consid
 
 Android Developer
 
-GitHub: https://github.com/manthanp4/CloudNotes
+GitHub: https://github.com/manthanp4
