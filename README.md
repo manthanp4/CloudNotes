@@ -128,7 +128,8 @@ Screenshots of the application will be added here.
 | <img src="screenshots/notespage.png" width="250"> | <img src="screenshots/addnotepage.png" width="250"> |
 
 | Edit Note |
-| <img src="screenshots/editnotepage.png" width="250"> |
+|-----|-----|
+| <img src="screenshots/editnotepage.png" width="250"> | <img src="screenshots/addnotepage.png" width="250"> |
 
 ## 🎯 Project Purpose
 
